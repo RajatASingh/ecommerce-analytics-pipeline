@@ -21,3 +21,22 @@ Traceback (most recent call last):
     return self._sock.recv_into(b)
            ^^^^^^^^^^^^^^^^^^^^^^^
 KeyboardInterrupt
+2025-09-26 23:44:40,415 - INFO - Data lod
+2025-09-26 23:44:54,766 - INFO - Data lod
+2025-09-26 23:45:08,319 - INFO - Data loaded in the df
+2025-09-26 23:45:43,819 - INFO - All the required credential is fetched from yaml file
+2025-09-26 23:46:05,646 - ERROR - Oh no
+2025-09-26 23:47:19,828 - INFO - Created Engine.
+2025-09-26 23:47:38,552 - INFO - Data loaded in the df
+2025-09-26 23:47:38,610 - INFO - All the required credential is fetched from yaml file
+2025-09-26 23:47:38,620 - ERROR - Oh no
+2025-09-26 23:47:38,633 - INFO - Created Engine.
+2025-09-26 23:51:22,831 - INFO - Data loaded in the df
+2025-09-26 23:51:25,547 - INFO - All the required credential is fetched from yaml file
+2025-09-26 23:51:26,675 - ERROR - Oh no
+2025-09-26 23:51:27,800 - INFO - Created Engine.
+2025-09-26 23:52:23,633 - INFO - Data loaded in the df
+2025-09-26 23:52:25,119 - INFO - All the required credential is fetched from yaml file
+2025-09-26 23:52:26,411 - ERROR - Oh no
+2025-09-26 23:52:28,573 - INFO - Created Engine.
+2025-09-26 23:52:31,559 - INFO - Created Engine and connected successfully.

@@ -2,8 +2,8 @@ file_path:
     raw_file : "../Data/Raw/olist_order_payments_dataset.csv"
     
 Database:
-  String_hostname : "f3h8hn.h.filess.io"
-  String_database : "Ecommerce_feetgrayto"
+  String_hostname : "bom2oa.h.filess.io"
+  String_database : "ecommerce_locationby"
   String_port : "3307"
-  String_username : "Ecommerce_feetgrayto"
-  String_password : "716840c9cdd8875588e0332177ec5e03be5b1ae3"
+  String_username : "ecommerce_locationby"
+  String_password : "f37880dbbb68307b909f92d19665b2bc190cfd42"

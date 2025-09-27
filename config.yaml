@@ -1,0 +1,28 @@
+file_path:
+    raw_file_mysql : "../Data/Raw/olist_order_payments_dataset.csv"
+    raw_file_mongo : "../Data/Raw/product_category_name_translation.csv"
+    
+mysql_Database:
+  String_hostname : "bom2oa.h.filess.io"
+  String_database : "ecommerce_locationby"
+  String_port : "3307"
+  String_username : "ecommerce_locationby"
+  String_password : "f37880dbbb68307b909f92d19665b2bc190cfd42"
+
+momgodb_datababse:
+  hostname : "t97ijt.h.filess.io"
+  database : "EcomerseNosql_meantmeans"
+  port : "61004"
+  username : "EcomerseNosql_meantmeans"
+  password : "e8e3aa5b691cf463167b2592614b05e7298610ff"
+
+spark_data_bricks:
+  'olist_customers_dataset': '..\\Data\\Raw\\olist_customers_dataset.csv'
+  'olist_geolocation_dataset': '..\\Data\\Raw\\olist_geolocation_dataset.csv'
+  'olist_orders_dataset': '..\\Data\\Raw\\olist_orders_dataset.csv'
+  'olist_order_items_dataset': '..\\Data\\Raw\\olist_order_items_dataset.csv'
+  'olist_order_payments_dataset': '..\\Data\\Raw\\olist_order_payments_dataset.csv'
+  'olist_order_reviews_dataset': '..\\Data\\Raw\\olist_order_reviews_dataset.csv'
+  'olist_products_dataset': '..\\Data\\Raw\\olist_products_dataset.csv'
+  'olist_sellers_dataset': '..\\Data\\Raw\\olist_sellers_dataset.csv'
+  'product_category_name_translation': '..\\Data\\Raw\\product_category_name_translation.csv'

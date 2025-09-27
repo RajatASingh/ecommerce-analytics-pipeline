@@ -1,5 +1,3 @@
-readme_content = """# 🛒 Ecommerce Analytics Pipeline
-
 ## 📌 Project Overview
 This project demonstrates a **modern data engineering pipeline** for e-commerce analytics.  
 It simulates a real-world scenario where data is spread across multiple systems and needs to be ingested, processed, and transformed into analytics-ready datasets.  
@@ -45,21 +43,18 @@ The pipeline uses **Azure services, Databricks, and multiple data sources** to p
 ---
 
 ## 📂 Repository Structure
-ecommerce-analytics-pipeline/
-│
-├── Data/
-│ └── Raw/ # Raw CSV datasets
-│
-├── file_path_on_git.json # To use in the lookup of ADF
-│
-├── Notebooks/
-│ ├── databricks_ingestion.ipynb # Reading ADLS + MongoDB in Spark
-│ └── transformations.ipynb # Data cleaning, joins, final outputs
-│
-├── README.md # Project documentation
-└── requirements.txt # Python dependencies (if any)
+## 📂 Repository Structure
 
-
+- **ecommerce-analytics-pipeline/**
+  - **Data/**
+    - `Raw/` — Raw CSV datasets
+  - **ADF/**
+    - `pipelines.json` — ADF pipeline definitions
+  - **Notebooks/**
+    - `databricks_ingestion.ipynb` — Reading ADLS + MongoDB in Spark
+    - `transformations.ipynb` — Data cleaning, joins, final outputs
+  - `README.md` — Project documentation
+  - `requirements.txt` — Python dependencies (if any)
 
 ---
 

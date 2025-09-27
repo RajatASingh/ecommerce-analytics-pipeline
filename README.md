@@ -43,7 +43,6 @@ The pipeline uses **Azure services, Databricks, and multiple data sources** to p
 ---
 
 ## 📂 Repository Structure
-## 📂 Repository Structure
 
 - **ecommerce-analytics-pipeline/**
   - **Data/**
